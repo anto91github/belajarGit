@@ -1,0 +1,1 @@
+isi dari js dummy
